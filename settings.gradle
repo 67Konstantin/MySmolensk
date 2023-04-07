@@ -14,7 +14,7 @@ dependencyResolutionManagement {
             url = uri("https://maven.pkg.github.com/GEORS/MAPS-SDK-ANDROID")
             credentials {
                 username = "67Konstntin"
-                password = "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"
+                password = "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"
             }
         }
     }
